@@ -1,0 +1,27 @@
+footer{
+    padding: 60px 0px;
+    background: #323843;
+    color: #fff
+}
+.footer__main{
+    display: flex;
+    justify-content: space-between;
+}
+.info__mail{
+    display: flex;
+    align-items: center;
+}
+.mail__img{
+    width: 24px;
+    margin-right: 8px;
+    margin-top: 3px;
+}
+.info__soz{
+    display: flex;
+    align-items: center;
+    margin-top: 30px
+}
+.soz__item{
+    width: 40px;
+    margin-right: 8px;
+}
